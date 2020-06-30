@@ -13,27 +13,29 @@ See also dockerhub tags page: https://hub.docker.com/r/fluent/fluentd-kubernetes
 
 #### Current stable
 
-- `v1.7.4-debian-elasticsearch7-2.2,v1.7-debian-elasticsearch7-2,v1-debian-elasticsearch` [docker-image/v1.7/debian-elasticsearch7/Dockerfile](docker-image/v1.7/debian-elasticsearch7/Dockerfile)
-- `v1.7.4-debian-elasticsearch6-2.2,v1.7-debian-elasticsearch6-2` [docker-image/v1.7/debian-elasticsearch6/Dockerfile](docker-image/v1.7/debian-elasticsearch6/Dockerfile)
-- `v1.7.4-debian-loggly-2.2,v1.7-debian-loggly-2` [docker-image/v1.7/debian-loggly/Dockerfile](docker-image/v1.7/debian-loggly/Dockerfile)
-- `v1.7.4-debian-logentries-2.2,v1.7-debian-logentries-2` [docker-image/v1.7/debian-logentries/Dockerfile](docker-image/v1.7/debian-logentries/Dockerfile)
-- `v1.7.4-debian-cloudwatch-2.2,v1.7-debian-cloudwatch-2` [docker-image/v1.7/debian-cloudwatch/Dockerfile](docker-image/v1.7/debian-cloudwatch/Dockerfile)
-- `v1.7.4-debian-stackdriver-2.2,v1.7-debian-stackdriver-2` [docker-image/v1.7/debian-stackdriver/Dockerfile](docker-image/v1.7/debian-stackdriver/Dockerfile)
-- `v1.7.4-debian-s3-2.2,v1.7-debian-s3-2` [docker-image/v1.7/debian-s3/Dockerfile](docker-image/v1.7/debian-s3/Dockerfile)
-- `v1.7.4-debian-syslog-2.2,v1.7-debian-syslog-2` [docker-image/v1.7/debian-syslog/Dockerfile](docker-image/v1.7/debian-syslog/Dockerfile)
-- `v1.7.4-debian-forward-2.2,v1.7-debian-forward-2` [docker-image/v1.7/debian-forward/Dockerfile](docker-image/v1.7/debian-forward/Dockerfile)
-- `v1.7.4-debian-gcs-2.2,v1.7-debian-gcs-2` [docker-image/v1.7/debian-gcs/Dockerfile](docker-image/v1.7/debian-gcs/Dockerfile)
-- `v1.7.4-debian-graylog-2.2,v1.7-debian-graylog-2` [docker-image/v1.7/debian-graylog/Dockerfile](docker-image/v1.7/debian-graylog/Dockerfile)
-- `v1.7.4-debian-papertrail-2.2,v1.7-debian-papertrail-2` [docker-image/v1.7/debian-papertrail/Dockerfile](docker-image/v1.7/debian-papertrail/Dockerfile)
-- `v1.7.4-debian-logzio-2.2,v1.7-debian-logzio-2` [docker-image/v1.7/debian-logzio/Dockerfile](docker-image/v1.7/debian-logzio/Dockerfile)
-- `v1.7.4-debian-kafka-2.2,v1.7-debian-kafka-2` [docker-image/v1.7/debian-kafka/Dockerfile](docker-image/v1.7/debian-kafka/Dockerfile)
-- `v1.7.4-debian-kinesis-2.2,v1.7-debian-kinesis-2` [docker-image/v1.7/debian-kinesis/Dockerfile](docker-image/v1.7/debian-kinesis/Dockerfile)
+- `v1.11.0-debian-elasticsearch7-1.0,v1.11-debian-elasticsearch7-1,v1-debian-elasticsearch` [docker-image/v1.11/debian-elasticsearch7/Dockerfile](docker-image/v1.11/debian-elasticsearch7/Dockerfile)
+- `v1.11.0-debian-elasticsearch6-1.0,v1.11-debian-elasticsearch6-1` [docker-image/v1.11/debian-elasticsearch6/Dockerfile](docker-image/v1.11/debian-elasticsearch6/Dockerfile)
+- `v1.11.0-debian-loggly-1.0,v1.11-debian-loggly-1` [docker-image/v1.11/debian-loggly/Dockerfile](docker-image/v1.11/debian-loggly/Dockerfile)
+- `v1.11.0-debian-logentries-1.0,v1.11-debian-logentries-1` [docker-image/v1.11/debian-logentries/Dockerfile](docker-image/v1.11/debian-logentries/Dockerfile)
+- `v1.11.0-debian-cloudwatch-1.1,v1.11-debian-cloudwatch-1` [docker-image/v1.11/debian-cloudwatch/Dockerfile](docker-image/v1.11/debian-cloudwatch/Dockerfile)
+- `v1.11.0-debian-stackdriver-1.0,v1.11-debian-stackdriver-1` [docker-image/v1.11/debian-stackdriver/Dockerfile](docker-image/v1.11/debian-stackdriver/Dockerfile)
+- `v1.11.0-debian-s3-1.0,v1.11-debian-s3-1` [docker-image/v1.11/debian-s3/Dockerfile](docker-image/v1.11/debian-s3/Dockerfile)
+- `v1.11.0-debian-syslog-1.0,v1.11-debian-syslog-1` [docker-image/v1.11/debian-syslog/Dockerfile](docker-image/v1.11/debian-syslog/Dockerfile)
+- `v1.11.0-debian-forward-1.0,v1.11-debian-forward-1` [docker-image/v1.11/debian-forward/Dockerfile](docker-image/v1.11/debian-forward/Dockerfile)
+- `v1.11.0-debian-gcs-1.0,v1.11-debian-gcs-1` [docker-image/v1.11/debian-gcs/Dockerfile](docker-image/v1.11/debian-gcs/Dockerfile)
+- `v1.11.0-debian-graylog-1.0,v1.11-debian-graylog-1` [docker-image/v1.11/debian-graylog/Dockerfile](docker-image/v1.11/debian-graylog/Dockerfile)
+- `v1.11.0-debian-papertrail-1.0,v1.11-debian-papertrail-1` [docker-image/v1.11/debian-papertrail/Dockerfile](docker-image/v1.11/debian-papertrail/Dockerfile)
+- `v1.11.0-debian-logzio-1.0,v1.11-debian-logzio-1` [docker-image/v1.11/debian-logzio/Dockerfile](docker-image/v1.11/debian-logzio/Dockerfile)
+- `v1.11.0-debian-kafka-1.0,v1.11-debian-kafka-2` [docker-image/v1.11/debian-kafka/Dockerfile](docker-image/v1.11/debian-kafka/Dockerfile)
+- `v1.11.0-debian-kinesis-1.0,v1.11-debian-kinesis-1` [docker-image/v1.11/debian-kinesis/Dockerfile](docker-image/v1.11/debian-kinesis/Dockerfile)
 
 You can also use `v1-debian-PLUGIN` tag to refer latest v1 image, e.g. `v1-debian-elasticsearch`. On production, strict tag is better to avoid unexpected update.
 
 See dockerhub's tags page for older tags.
 
 #### Old stable
+
+v0.12 development has been ended. These images are never updated.
 
 - `v0.12-debian-elasticsearch` [docker-image/v0.12/debian-elasticsearch/Dockerfile](docker-image/v0.12/debian-elasticsearch/Dockerfile)
 - `v0.12-debian-loggly` [docker-image/v0.12/debian-loggly/Dockerfile](docker-image/v0.12/debian-loggly/Dockerfile)
@@ -90,7 +92,7 @@ Fluentd versioning is as follows:
 
 ### Default image version
 
-Default YAML uses latest v1 images like `fluent/fluentd-kubernetes-daemonset:v1-debian-kafka`. If you want to avoid unexpected image update, specify exact version for `image` like `fluent/fluentd-kubernetes-daemonset:v1.7.0-debian-kafka-1.1`.
+Default YAML uses latest v1 images like `fluent/fluentd-kubernetes-daemonset:v1-debian-kafka`. If you want to avoid unexpected image update, specify exact version for `image` like `fluent/fluentd-kubernetes-daemonset:v1.8.0-debian-kafka-1.0`.
 
 ### Run as root
 
@@ -103,6 +105,28 @@ To avoid permission error, you need to set `FLUENT_UID` environment variable to 
 
 These images have default configuration and support some environment variables for parameters
 but it sometimes doesn't fit your case. If you want to use your configuration, use ConfigMap feature.
+
+Each image has following configurations:
+
+- fluent.conf: Destination setting, Elaticsearch, kafka and etc.
+- kubernetes.conf: k8s specific setting. `tail` input for log files and `kubernetes_metadata` filter
+- prometheus.conf: prometheus plugin for fluentd monitoring
+- systemd.conf: systemd plugin for collecting systemd-journal log. See also "Disable systemd input" section.
+
+Overwrite conf file via ConfigMap. See also several examples:
+
+- [Cluster-level Logging in Kubernetes with Fluentd](https://medium.com/kubernetes-tutorials/cluster-level-logging-in-kubernetes-with-fluentd-e59aa2b6093a)
+- https://github.com/fluent/fluentd-kubernetes-daemonset/pull/349#issuecomment-579097659
+
+### Use FLUENT_CONTAINER_TAIL_EXCLUDE_PATH to exclude specific container logs
+
+Since v1.9.3 or later images.
+
+You can exclude container logs from `/var/log/containers/` with `FLUENT_CONTAINER_TAIL_EXCLUDE_PATH`.
+If you have a trouble with specific log, use this envvar, e.g. `["/var/log/containers/logname-*"]`.
+
+- `exclude_path` parameter document: https://docs.fluentd.org/input/tail#exclude_path
+- Fluentd log issue with backslash: https://github.com/fluent/fluentd/issues/2545
 
 ### Disable systemd input
 
@@ -122,6 +146,8 @@ By default, latest images launch `prometheus` plugins to monitor fluentd.
 You can disable prometheus input plugin by setting `disable` to `FLUENTD_PROMETHEUS_CONF` environment variable in your kubernetes configuration.
 
 ### Disable sed execution on elasticsearch image
+
+This is for older images. Latest elasticsearch images don't use sed.
 
 By historical reason, elasaticsearch image executes `sed` command during startup phase when `FLUENT_ELASTICSEARCH_USER` or `FLUENT_ELASTICSEARCH_PASSWORD` is specified. This sometimes causes a problem with read only mount.
 To avoid this problem, set "true" to `FLUENT_ELASTICSEARCH_SED_DISABLE` environment variable in your kubernetes configuration.
@@ -165,6 +191,8 @@ Some images are contributed by users. If you have a problem/question for followi
 - Amazon Kinesis : @shiftky
 - logz.io : @SaMnCo / @jamielennox
 - splunkhec: @FutureSharks
+
+Currently, we don't accept new destination request. See https://github.com/fluent/fluentd-kubernetes-daemonset/issues/293
 
 ### References
 
